@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @idafjeldstad
+- 👀 I’m interested in learing more
+- 🌱 I’m currently learning CSS, JavaSript and html
